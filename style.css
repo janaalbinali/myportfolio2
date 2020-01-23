@@ -1,0 +1,40 @@
+body {
+    
+    font-family:inherit
+    
+}
+.header{
+    color:aqua
+}
+h1, h2, h3{
+    
+    color:darkblue
+}
+.content {
+    font-style: italic
+}
+#large-title {
+    
+    font-style:italic;
+    color:cadetblue;
+    font-weight:bolder;
+    
+}
+
+h1 .title{
+    
+    color:darkgreen;
+    font-weight:bolder
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border: 5px solid white;
+    border-radius: 5px;
+    text-align:center
+}
+
+.text-center{
+    
+    text-align:center;
+    
+}
